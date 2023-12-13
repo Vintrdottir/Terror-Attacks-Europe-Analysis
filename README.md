@@ -54,4 +54,5 @@ Here are the results based on some Accuracy and ROC-AUC metrics
 | Gradient Boosting | 0.799 | 0.835 |
 | Gradeint Boosting Tuned | 0.803 | 0.841 |
 | Random Forest Tuned | 0.807 | 0.848 |
+
 Following fine-tuning, the Random Forest model demonstrated superior performance, achieving the highest ROC-AUC score of 0.85.
